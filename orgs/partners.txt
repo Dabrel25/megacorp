@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 partner list
 Boot.dev
 TheStartup
+=======
+partner list
+>>>>>>> main
