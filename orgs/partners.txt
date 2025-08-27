@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 partner list
-Boot.dev
+SalesInc
 TheStartup
-=======
-partner list
->>>>>>> main
